@@ -13,3 +13,13 @@
 * FungusGetInt.cs: 取得一個Fungus flowchart裡面的int變數
 * FungusGetString.cs: 取得一個Fungus flowchart裡面的string變數
 * FungusGetFloat.cs: 取得一個Fungus flowchart裡面的float變數
+
+In case you don't know what's Playmaker and Fungus:
+
+
+Playmaker:
+http://www.hutonggames.com/
+
+
+Fungus:
+http://fungusgames.com/
